@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="class_name">
+        <item>ECON101</item>
+        <item>COMP566</item>
+        <item>MATH250</item>
+        <item>ENGL100</item>
+        <item>PHYS210</item>
+    </string-array>
+    
+    <string-array name="class_func">
+        <item>Class Roster</item>
+        <item>Attendance</item>
+        <item>Assignments</item>
+        <item>Class Settings</item>
+    </string-array>
+    
+    <string-array name="class_desc">
+        <item>Basic economics.</item>
+        <item>Some computers.</item>
+    	<item>Here is some maths.</item>
+    	<item>Easytime English.</item>
+    	<item>Physics is the game.</item>
+    </string-array>
+    
+    <string-array name="junk_data">
+        <item>Here is the first entry.</item>
+        <item>Here is the second entry.</item>
+        <item>Here is the third entry.</item>
+        <item>Here is the fourth entry.</item>
+        <item>Here is the fifth entry.</item>
+    </string-array>
+    
+    <string-array name="student_names">
+        <item>Student One</item>
+        <item>Student Two</item>
+        <item>Student Three</item>
+        <item>Student Four</item>
+        <item>Student Five</item>
+        <item>Student Six</item>
+        <item>Student Seven</item>
+        <item>Student Eight</item>
+        <item>Student Nine</item>
+        <item>Student Ten</item>
+        <item>Student Eleven</item>
+        <item>Student Twelve</item>
+        <item>Student Thirteen</item>
+        <item>Student Fourteen</item>
+        <item>Student Fifteen</item>    
+    </string-array>
+</resources>
